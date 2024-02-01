@@ -8,7 +8,8 @@ https://peps.python.org/pep-0619/
 https://docs.python.org/3.10/tutorial/index.html
 
 ## Active Python Releases
+Python version 3.10 **EOF: 2026-10**
+
 https://www.python.org/downloads/
 
-Python version 3.10 
-**EOF: 2026-10**
+
