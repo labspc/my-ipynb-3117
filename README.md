@@ -1,6 +1,5 @@
 # my-ipynb-3117
-在 Mac M1 下使用 Jupyter Noteboook 学习 Python（Version 3.11.7）
-
+在 Mac M1 下使用 VS Code Jupyter Noteboook Extension 学习 Python（Version 3.11.7）
 
 ## Active Python Releases
 Python 3.11.7 **EOF: 2027-10**
