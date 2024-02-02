@@ -1,5 +1,5 @@
-# colab-python-book
-Learning Python by Colab. 通过使用 Colab 学习 Python 的笔记本
+# my-ipynb-3117
+在 Mac M1 下使用 Jupyter Noteboook 学习 Python（Version 3.11.7）
 
 
 ## Active Python Releases
