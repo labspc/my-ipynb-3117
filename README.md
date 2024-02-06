@@ -13,6 +13,16 @@
 
 在 `ResOfflineReading` 文件夹里，有已经导出好的离线阅读资源，可方便读者拥有更好的阅读体验。
 
+除去 `Dept2/gaussian.py` 需要提前学习过 `高斯分布（Gaussian distribution）/ 正态分布（Normal distribution)` 外，其余章节有高中数学知识即可。  注：  `/` 是“又称为”的意思。
+
+忘记的，B站找个视频看看，例如：
+
+【2.4正态分布】 https://www.bilibili.com/video/BV16s411k7bq/?share_source=copy_web&vd_source=59d47afd43812c161ca8ef67a1dfea4d
+
+![](https://img.imotao.com/i/2024/02/06/65c254ef5a6d4.png)
+
+【【官方双语】为什么正态分布里会有一个π？（不止是积分技巧）】 https://www.bilibili.com/video/BV1wu411W7uU/?share_source=copy_web&vd_source=59d47afd43812c161ca8ef67a1dfea4d
+
 ## Why 
 
 **为什么要学Python？** 
